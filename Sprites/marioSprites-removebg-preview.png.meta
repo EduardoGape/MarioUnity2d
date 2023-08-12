@@ -1,0 +1,4833 @@
+fileFormatVersion: 2
+guid: d260658886a31774b8c9663edb5cce3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 589
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7c5ab93fd348488685ab32623546f
+      internalID: 88983328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 560
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb655b26a20574395447a5a62a5c8b
+      internalID: -115701486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 589
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1219e0cc47e64eb827fe831dad601
+      internalID: 924392411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 560
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a18cfc2ef72f5240b5ebb75b36a4d79
+      internalID: 563322459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 544
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207f26616671cd4eab2a98c415ddf68
+      internalID: -15862243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 545
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83b682ba1e513469575d978b1aafd2
+      internalID: 1557889582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 531
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dd328bc927bee46a6e981274facef5
+      internalID: -1544785435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 532
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515793a8b8b2ab46a76c9ad1eb6797b
+      internalID: -399304260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 531
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446fda3cd4f72754296099583f2a6b84
+      internalID: 1814970360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 532
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca433d768e2ce45a010a6a8c7ee40f
+      internalID: 328216369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 531
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e486515901444291ed305fc91a08c
+      internalID: 1833714868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 532
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3e1b1d235ac5345904ad87bf51ea25
+      internalID: 124095058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36633f465445dff479db8daedc50fa8f
+      internalID: -1484453724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 532
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b338de7d01fa46bc39b8c7757ec32
+      internalID: 1775211963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 532
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e51f42b4a9c544abed8bfe984b338
+      internalID: 1458495473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 515
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a157a68cd32b4ca294fd59f411899
+      internalID: -1472203656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 516
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad98548c1f8174b84eb0ffca33ad57
+      internalID: -1011861753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 516
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484445ecb388b7748870915066a2bcb6
+      internalID: -198466519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 516
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427ba2380f09964ab4a57017048a017
+      internalID: 973741550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 516
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f530ed822a85f34e8105623e1ead9e8
+      internalID: 1311337723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 516
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e3bc46d3899242b281d4e168496ea
+      internalID: -1339341307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90edaf92dbadb1846a140193db012d21
+      internalID: -1828788725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 502
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b286e0d4438c4f9fde89bbb87b909
+      internalID: -1022009713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 502
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3ea1847e640f4dbe48fa01f4c7cbe
+      internalID: 1545104517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 501
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366be1f1b445e7841b5039f376d16e2a
+      internalID: -28671762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 501
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49c4c3d3426184a90daee7b4c0c9dc
+      internalID: 2046404495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 501
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9455cee9e610764a98dc490e2854188
+      internalID: -1937492465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c49ba38b69b4b4488431418e7e8768
+      internalID: -1970293045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 475
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c2c2e32debcf44b15cca953b5b11b
+      internalID: -982833291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 488
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912fb0cabb09884abf6fd531d345950
+      internalID: -1065496220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 488
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd3628c5efd884cbe00d1003a38c0b
+      internalID: 1445459106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 488
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1481ff6a54707bb4d9ed064b3f8e1b65
+      internalID: 86421634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 488
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd73a548fab36a4b9976641623e9eee
+      internalID: 291105102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 483
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd62fac0828cd4488eca35d5061b436
+      internalID: 215531110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 483
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52318bca991e24db2da20b922faf40
+      internalID: 135814742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 475
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996eeee0ed63c241829dd6d8ac16fd0
+      internalID: -349727083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 475
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9465375e1aa3fc8458ea11e6d58960ab
+      internalID: 1815249360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 454
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313203ead5037b4cb7b26847b484440
+      internalID: 726082658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 453
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17678d90fa5abe046b2bcd0506a39e79
+      internalID: -313272500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617223637bd47d49a136ca2edf717b4
+      internalID: 1257548312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b397066b1a984382256c264f9aeb4
+      internalID: -1766711447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 454
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14aa7168ee8625408c3451676cadff0
+      internalID: 1273367380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 453
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46745757db31f33489f01d5e5d980835
+      internalID: 409283452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7d15faac32294f9e10caa7e31dba1
+      internalID: 1976640361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86b4d739da633408d1e7ed6c86b714
+      internalID: -559468401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddd1cb8e08ec743814986b0be431ae
+      internalID: -1253450017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 453
+        width: 169
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0eb6122e336f74baa66d9f680895e6
+      internalID: 1733437394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 429
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db964f43810e1e4eaad9aa59567576b
+      internalID: -1118074789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 429
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c540a49353d24f8fa6a5c2eed52fa
+      internalID: -782578073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 429
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d82025cecb8d42968d9ce8085a46c
+      internalID: -1303357344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 429
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992029456d647247a500a500a210d82
+      internalID: -1854786181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 430
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bcd9078e537d643bdd778a065139db
+      internalID: 349856679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 430
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa24b39aba5302498901f45cfb41e96
+      internalID: 1034722825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 430
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a89b4baadabb48a3917359821dc79
+      internalID: -2111441518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 430
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf530ad880994e0468fbf2c96af90d4e
+      internalID: 987118956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 407
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5210b7e67aec0634990827bda7fb4c07
+      internalID: -608602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 407
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97484b204d39c4c9a1c96da953fd94
+      internalID: -1761753903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 407
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef2cb4dbf0772b449fda877b6de62e1
+      internalID: 1351075479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 407
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b3647dd73bc44db7ce8cdd8196c58
+      internalID: -451863962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43dc41ab4c5f94fa5c6cdb603527dd
+      internalID: 957910326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c0252f45469a43881aeb11ce665e3
+      internalID: -465866553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a07f924a94da4a900c8b454d31c59
+      internalID: 2119739017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e67270f2ff981439e493b5bcb7cf3c
+      internalID: -53497896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5589906e451b344997f54ef54c3319e
+      internalID: 118799736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 366
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4da60a1e149a4f935534358b7bd35
+      internalID: -773315054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 366
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9fc970f914c74fbb19c02651774ba
+      internalID: 418142452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19660334a67da74fa18b14b00bf5726
+      internalID: -830899877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 382
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103bcc8f7cbcaaa4695f5644ad45141c
+      internalID: -233309538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 382
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac22e113a688614fad0e45cf0b68d2e
+      internalID: 611839186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 360
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c9c5e7f27cfb43ac52cdc1766f810
+      internalID: 358167185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 368
+        width: 119
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad0c1160332db49b01687ba4893803
+      internalID: 188578126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 357
+        width: 119
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9a05634a90d8438cf90532fc5ad8c
+      internalID: -931401411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 237
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b4417ea2ee754faf4440cd46052e6
+      internalID: -1079606266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 321
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99aba4df301b6a488ddf1929b4b3bf1
+      internalID: 1840657546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711ee4b6ac40b44aa4b5b5a0070bd2e
+      internalID: -1759703842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 321
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d7c6567b19604c9939d8b36282a83
+      internalID: 2126514548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9cd8beb9a121b4289932699cb875e4
+      internalID: -1598142270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5bec13236dabf4c8b25ae357ef83cf
+      internalID: 33874690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf11dffa2db6743839086efc85f476
+      internalID: 804724846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102b56d152eeb24596ecdf10e534633
+      internalID: -1311125868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 299
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edfd21ab3b8cf2419030c214c54043f
+      internalID: 1817064010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870802983602d44b817f8024211ff75
+      internalID: -445995426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 299
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e67d858782e504aa280ce8f22ac5f3
+      internalID: -1560177359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 299
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80006fefd7a293947bae458112262969
+      internalID: 2062134479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 299
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e7031b43b3fc49a18c44780c86cdf
+      internalID: 2028463461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 300
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e0a0dea34fd649848f2f7198ea5a3
+      internalID: -424059247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a5a74c101a2c4e8c3afcca3ab2c70
+      internalID: -2040555260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 299
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd40216cdd91441872ba848757edd6
+      internalID: 778025937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 298
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bed16595188564e931eb3f2d7e03bf
+      internalID: -1743952406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b09dd386266294faa7c7359ef877b1
+      internalID: 695177433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1512d1f27419e498881bbf08761e17
+      internalID: 1851564250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 298
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d772d8b7f317c48ba0a5ca61f68e06
+      internalID: 1107958343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 297
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b25adc7c5c9a2428c3a1c21539d402
+      internalID: 183749996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 296
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f26050e084c64fb63e97ee353f6f2
+      internalID: 1387186169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 261
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85c352f2b029d41a556324a4dbea07
+      internalID: -24190947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 278
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac59e49c823f2a47bfebe0060186f73
+      internalID: 2049591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 278
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5276042dd5d342ab846bb50fd19fe
+      internalID: 119647435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac13e1efde6284684c2949f416faf7
+      internalID: 439454701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 278
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb13e338e4cf248bffc3439619e219
+      internalID: -1196147957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067d244dc5199d4dbb0f1ac855457c0
+      internalID: -817129338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 278
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49befac2a9ec4814fba98b6d6d5b603a
+      internalID: -1451712589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 278
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ea92abbf1d774283d2d3ebc1ac501
+      internalID: 622720118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 278
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b7636ab2c675488c8a4023ec93b05
+      internalID: 1700506730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf68129fb73bb9849b067e294ea41586
+      internalID: 1453728814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 278
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb55014db60ef940aa7d3a12776e735
+      internalID: 1881126669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 277
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65db7d97706a44db7bdf814b2274c0
+      internalID: -2057218616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 276
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd24c43e0e055b4db9b09813cc3f636
+      internalID: -1626295114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 277
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763cfeb8d597bd40a70a0b05d1c5d2b
+      internalID: 1406626327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 277
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3851864a6ae8d049b91bbbe547ac560
+      internalID: 310130030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 259
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c13db4529c3c489619fc064d0bc53
+      internalID: -1792152877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f669efe700e140bae77238a3ebb60
+      internalID: 757384491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 274
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5641a5975b60448b5c7e099b7bfbbf
+      internalID: 1422542964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 261
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d86b38ba7d7e4681d329ad216a2df
+      internalID: -1403324436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 261
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b951e1678d0293469667715584d1a8e
+      internalID: -416879731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 261
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ad98e3e67fc04e87c2c753c2ed135
+      internalID: 2122504133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 261
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5831dbb03ebf2fa459e2b431e3e647f7
+      internalID: -1869497251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 261
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a6d349bfcc864090b467fc6315997
+      internalID: -623551254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 261
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb27ed9d1311f47b7ad8ec0cd9062d
+      internalID: -1916828949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 261
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea2138ea02978a40ac7cd4ac43cc14f
+      internalID: -301718744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd0bf909467124183a98b9b6b7791f
+      internalID: -786955371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 262
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95600f6b714f4448b0abd08ada92be
+      internalID: 311445734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 261
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89473c84f1d292b4e8e5f1f9fbdd40c4
+      internalID: 314028750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 259
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26512e63599eb384998eb2404ed9085e
+      internalID: 477880470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 259
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43938c75a586a4bb061f66506c1aa2
+      internalID: -294897286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 260
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b58298c178eb547ae3603896c3dc20
+      internalID: -1949292839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 260
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1497b6ac0d3bc478bf4c255dd70b89
+      internalID: -2090315637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 258
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e00263b2719e4ab7c3d5d62d2b6dc
+      internalID: 1538315223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 257
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb498f57d54c44482bdab11aa2b8a9
+      internalID: 1524515962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c81f7597c05a864d98de32a5c3adc6a
+      internalID: -22641578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 241
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098765c8fe299d2489d8621bd8459566
+      internalID: 1218390434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 241
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa94149c9501f4398bab39be8d7052
+      internalID: -1436955985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 241
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374fd276ef68a8f4985c2db7efa12b6c
+      internalID: -1322585582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0246b4e68c6b7d74fbca2540f43a1281
+      internalID: 1437327428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 219
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18739384ad669114c809e3723826ab88
+      internalID: 1778704056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acef1bdf40b3c4483df252821d38cb
+      internalID: -1796641442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220e18e4c8ea924da3117effc4d2460
+      internalID: 138628031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 221
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5e2663400a0346b0cb4de0ecea4dc
+      internalID: -1281331947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42ae284ef6aa543ba4e375915a6f30
+      internalID: 1768894809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 221
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cfcf0aafb3a1245a0f0aab30c164be
+      internalID: 1966328251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 221
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778cbb30deb03649b8d5c554f9e6036
+      internalID: -1235231853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 221
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407e8599c819f4448da6e4bbd1d6aa4
+      internalID: -550097805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e33cc24489931a43bbb98a8bb6fcc68
+      internalID: 1908516757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 197
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6751959d66554e8497633c55c1089
+      internalID: 943039351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639fc08c08ead24a98ea6de292bafc7
+      internalID: 308935174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0b379b03f5ca4090ddbb686e9747b
+      internalID: -2051527581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2946573f9da14d97b32b793388c0c
+      internalID: 1463862824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 199
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6e0fe00152c24fb4fbd4a26535c4b
+      internalID: -945528950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 199
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf985b4a7b862458ea0c7f62ef92ee
+      internalID: 597752003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2da40a3b8fd0a446b1d5761562254b3
+      internalID: 1060320665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 199
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4722dd88f9f34d9682dafe97017a0
+      internalID: 492597476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e44b90f4ec58c489fd64d69de71c97
+      internalID: 778424495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 173
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec4dee18e95384fa102198ab0c416b
+      internalID: -267083724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f542dffb7c69459642fa74eeada6e
+      internalID: -348157942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811299c320b8b6b43b129992c5a6808b
+      internalID: -1738949231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49f8bb8b68d424f8c49e391b0bb9ec
+      internalID: -1776362767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 175
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbb8d39cd8f10459265125e2e52437
+      internalID: -162103849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 175
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe05e75b3af6f4c9fbc432fdaa31d1
+      internalID: 362685764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aae0183702b046905f3d7656670bf
+      internalID: -1129541053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 175
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54830a6395c6a47bd1635a6ee18c91
+      internalID: -568283675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69e00d9338baa4bb48512b9d816920
+      internalID: -1222108657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 160
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea690bdce815244aa82734ef5ca3c76
+      internalID: 111417936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ae0a2ce258134a8609c5da39ad89d
+      internalID: 263644408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b23fa07bf9a2f4c9fb6a22aba7fd76
+      internalID: -275901159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0ffbe9fea1e24299f3129b21c5aa1
+      internalID: -1111520405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 140
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb6bac72b66d14a9a72ba34009d5b5
+      internalID: -448145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573060bb18d21c4ca160b834e9fccfd
+      internalID: 736996703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 139
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6717089dabcdb4daf0bd103f354451
+      internalID: -431852192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 140
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4db2858936aee4fa3140278fd32702
+      internalID: 786911750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ee370d7de36042bdf6bad684366dc
+      internalID: 507197825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c526475660fa45b55391de64bcdc7
+      internalID: -1987205921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 140
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141fd971114cf014091804362711825c
+      internalID: -568573954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 140
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f979325937e63241bc1566de633e326
+      internalID: 948913542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2b257d6fff664aa8fa1bd519f9af6
+      internalID: -1919329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2871b25b02bdc0428ec8ead384bc9ef
+      internalID: 269236348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 122
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea9667245f2d7479df1c6e7233a334
+      internalID: -1991430064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 122
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b375f3c03557f4f9fadafdc01e71dc
+      internalID: -978980857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93d4b8335a72441b7cc1a3735d4bca
+      internalID: 1751791294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6019a8ffddb78a438a5f91bff1f5af0
+      internalID: 1957065000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03f7d78a81fc04fb4bb03e6a427aca
+      internalID: -1965830495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a725deeda2ef4781e734710af1089
+      internalID: 1931710015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81eef39a47dac9469dfbc243a02292a
+      internalID: -197695093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e88ca428c8b44092a28a91b28abf3
+      internalID: 1623932235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 100
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f5b7422ae2044887e8bf74b744720
+      internalID: -810313172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 100
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fbc4bd4edb61e49a31e50d14052fd7
+      internalID: 1436629663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 102
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c1eb1b4280f3498149dea75ac6e81
+      internalID: -1475107359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cdd726538557429041ccc823ed149
+      internalID: -1777395185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90189310cc5f9a40a858672dda3fd0f
+      internalID: -1201168522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11
+        width: 173
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bdd2b801e2c544a94846f404c9e833
+      internalID: -22874042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e86663a384cc4886f0c371e96997d
+      internalID: -1301442836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd192fd46607f7b409a19d4483dfdd0d
+      internalID: -311622433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58dba8bfd347249a7dd9dd25cd5a80
+      internalID: 1952747250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07035792b3fe35249a934d9147721bb2
+      internalID: -375827046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 45
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914baa2b743e0543b719e173b7fe6c6
+      internalID: 2030332633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 46
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e3d9b1903c2d240bb8eec3a24aa71a
+      internalID: -1832461089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 45
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3322f026b798ec479bb633da3ae020e
+      internalID: 1703974171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eaa62ef645b4547b2a8b0092b2157e
+      internalID: 781994438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f601394848b2f1f43b796fb6bec7dc46
+      internalID: -704324285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efee1fb38d360254fb91f76ec2a998ad
+      internalID: -1802664855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 45
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a09201a1c7e0438b5908c59ee5b96
+      internalID: 1151968089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd796bd14dca345b177562c11009fd
+      internalID: -1684816221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f13cfa38b10b4999a8d53b807e670
+      internalID: -776104572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435359e27f6429418a6e435764ef688
+      internalID: 548251245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fcfdc9cb9f93748b67a6015e9648e9
+      internalID: -1649430416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df156bc1e9ee754c984c51dfb327d1d
+      internalID: -428655686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48550633fab729e49bb75e5f0199ed2a
+      internalID: -1774664898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb707d0b96ec0c428019b97a611752c
+      internalID: -156452518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c726bc0f6ccb89c42966e0bc7df99d1b
+      internalID: 711435911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e2b84a8f30d3419d9e31906c72814
+      internalID: 472018940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_208
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5c5f7b9203214aa321a7a3a3270a2
+      internalID: -721099883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_209
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a236f27792436346849234b4a4d0d74
+      internalID: 336259392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_210
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436d65fe3ebbae4faf94be47f594a0e
+      internalID: -1087297364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_211
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54d4780c13d9047a707b864dbd2e67
+      internalID: -1675149625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSprites-removebg-preview_212
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19169abd7f12ffd4397b11aeae366793
+      internalID: 2028337047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marioSprites-removebg-preview_88: -1743952406
+      marioSprites-removebg-preview_115: -1869497251
+      marioSprites-removebg-preview_201: 548251245
+      marioSprites-removebg-preview_161: 263644408
+      marioSprites-removebg-preview_96: 119647435
+      marioSprites-removebg-preview_102: 1700506730
+      marioSprites-removebg-preview_97: 439454701
+      marioSprites-removebg-preview_6: -1544785435
+      marioSprites-removebg-preview_31: 86421634
+      marioSprites-removebg-preview_70: 188578126
+      marioSprites-removebg-preview_167: 786911750
+      marioSprites-removebg-preview_42: 409283452
+      marioSprites-removebg-preview_36: 1815249360
+      marioSprites-removebg-preview_186: -1201168522
+      marioSprites-removebg-preview_127: 1524515962
+      marioSprites-removebg-preview_54: 987118956
+      marioSprites-removebg-preview_104: 1881126669
+      marioSprites-removebg-preview_98: -1196147957
+      marioSprites-removebg-preview_156: 362685764
+      marioSprites-removebg-preview_94: -24190947
+      marioSprites-removebg-preview_35: -349727083
+      marioSprites-removebg-preview_199: -1684816221
+      marioSprites-removebg-preview_14: 1458495473
+      marioSprites-removebg-preview_163: -1111520405
+      marioSprites-removebg-preview_191: -375827046
+      marioSprites-removebg-preview_181: 1623932235
+      marioSprites-removebg-preview_173: 269236348
+      marioSprites-removebg-preview_90: 1851564250
+      marioSprites-removebg-preview_179: 1931710015
+      marioSprites-removebg-preview_190: 1952747250
+      marioSprites-removebg-preview_9: 328216369
+      marioSprites-removebg-preview_43: 1976640361
+      marioSprites-removebg-preview_198: 1151968089
+      marioSprites-removebg-preview_147: 597752003
+      marioSprites-removebg-preview_111: 1422542964
+      marioSprites-removebg-preview_56: -1761753903
+      marioSprites-removebg-preview_61: 2119739017
+      marioSprites-removebg-preview_210: -1087297364
+      marioSprites-removebg-preview_57: 1351075479
+      marioSprites-removebg-preview_69: 358167185
+      marioSprites-removebg-preview_45: -1253450017
+      marioSprites-removebg-preview_65: 418142452
+      marioSprites-removebg-preview_192: 2030332633
+      marioSprites-removebg-preview_136: -1281331947
+      marioSprites-removebg-preview_138: 1966328251
+      marioSprites-removebg-preview_18: 973741550
+      marioSprites-removebg-preview_207: 472018940
+      marioSprites-removebg-preview_52: 1034722825
+      marioSprites-removebg-preview_182: -810313172
+      marioSprites-removebg-preview_120: 311445734
+      marioSprites-removebg-preview_194: 1703974171
+      marioSprites-removebg-preview_25: 2046404495
+      marioSprites-removebg-preview_149: 492597476
+      marioSprites-removebg-preview_209: 336259392
+      marioSprites-removebg-preview_174: -1991430064
+      marioSprites-removebg-preview_206: 711435911
+      marioSprites-removebg-preview_39: 1257548312
+      marioSprites-removebg-preview_166: -431852192
+      marioSprites-removebg-preview_72: -1079606266
+      marioSprites-removebg-preview_17: -198466519
+      marioSprites-removebg-preview_118: -301718744
+      marioSprites-removebg-preview_15: -1472203656
+      marioSprites-removebg-preview_171: 948913542
+      marioSprites-removebg-preview_164: -448145041
+      marioSprites-removebg-preview_196: -704324285
+      marioSprites-removebg-preview_99: -817129338
+      marioSprites-removebg-preview_150: 778424495
+      marioSprites-removebg-preview_200: -776104572
+      marioSprites-removebg-preview_146: -945528950
+      marioSprites-removebg-preview_34: 135814742
+      marioSprites-removebg-preview_187: -22874042
+      marioSprites-removebg-preview_184: -1475107359
+      marioSprites-removebg-preview_26: -1937492465
+      marioSprites-removebg-preview_86: -2040555260
+      marioSprites-removebg-preview_68: 611839186
+      marioSprites-removebg-preview_169: -1987205921
+      marioSprites-removebg-preview_20: -1339341307
+      marioSprites-removebg-preview_19: 1311337723
+      marioSprites-removebg-preview_188: -1301442836
+      marioSprites-removebg-preview_55: -608602543
+      marioSprites-removebg-preview_73: 1840657546
+      marioSprites-removebg-preview_21: -1828788725
+      marioSprites-removebg-preview_203: -428655686
+      marioSprites-removebg-preview_143: 308935174
+      marioSprites-removebg-preview_80: 1817064010
+      marioSprites-removebg-preview_59: 957910326
+      marioSprites-removebg-preview_106: -1626295114
+      marioSprites-removebg-preview_128: -22641578
+      marioSprites-removebg-preview_140: -550097805
+      marioSprites-removebg-preview_84: 2028463461
+      marioSprites-removebg-preview_3: 563322459
+      marioSprites-removebg-preview_11: 124095058
+      marioSprites-removebg-preview_155: -162103849
+      marioSprites-removebg-preview_83: 2062134479
+      marioSprites-removebg-preview_158: -568283675
+      marioSprites-removebg-preview_134: -1796641442
+      marioSprites-removebg-preview_148: 1060320665
+      marioSprites-removebg-preview_91: 1107958343
+      marioSprites-removebg-preview_189: -311622433
+      marioSprites-removebg-preview_2: 924392411
+      marioSprites-removebg-preview_30: 1445459106
+      marioSprites-removebg-preview_23: 1545104517
+      marioSprites-removebg-preview_121: 314028750
+      marioSprites-removebg-preview_165: 736996703
+      marioSprites-removebg-preview_76: -1598142270
+      marioSprites-removebg-preview_109: -1792152877
+      marioSprites-removebg-preview_205: -156452518
+      marioSprites-removebg-preview_66: -830899877
+      marioSprites-removebg-preview_141: 1908516757
+      marioSprites-removebg-preview_175: -978980857
+      marioSprites-removebg-preview_47: -1118074789
+      marioSprites-removebg-preview_0: 88983328
+      marioSprites-removebg-preview_176: 1751791294
+      marioSprites-removebg-preview_124: -1949292839
+      marioSprites-removebg-preview_101: 622720118
+      marioSprites-removebg-preview_44: -559468401
+      marioSprites-removebg-preview_5: 1557889582
+      marioSprites-removebg-preview_32: 291105102
+      marioSprites-removebg-preview_122: 477880470
+      marioSprites-removebg-preview_27: -1970293045
+      marioSprites-removebg-preview_183: 1436629663
+      marioSprites-removebg-preview_113: -416879731
+      marioSprites-removebg-preview_89: 695177433
+      marioSprites-removebg-preview_157: -1129541053
+      marioSprites-removebg-preview_202: -1649430416
+      marioSprites-removebg-preview_151: -267083724
+      marioSprites-removebg-preview_85: -424059247
+      marioSprites-removebg-preview_103: 1453728814
+      marioSprites-removebg-preview_40: -1766711447
+      marioSprites-removebg-preview_160: 111417936
+      marioSprites-removebg-preview_38: -313272500
+      marioSprites-removebg-preview_51: 349856679
+      marioSprites-removebg-preview_170: -568573954
+      marioSprites-removebg-preview_82: -1560177359
+      marioSprites-removebg-preview_12: -1484453724
+      marioSprites-removebg-preview_77: 33874690
+      marioSprites-removebg-preview_197: -1802664855
+      marioSprites-removebg-preview_132: 1437327428
+      marioSprites-removebg-preview_7: -399304260
+      marioSprites-removebg-preview_8: 1814970360
+      marioSprites-removebg-preview_48: -782578073
+      marioSprites-removebg-preview_116: -623551254
+      marioSprites-removebg-preview_67: -233309538
+      marioSprites-removebg-preview_193: -1832461089
+      marioSprites-removebg-preview_49: -1303357344
+      marioSprites-removebg-preview_212: 2028337047
+      marioSprites-removebg-preview_13: 1775211963
+      marioSprites-removebg-preview_62: -53497896
+      marioSprites-removebg-preview_162: -275901159
+      marioSprites-removebg-preview_81: -445995426
+      marioSprites-removebg-preview_78: 804724846
+      marioSprites-removebg-preview_110: 757384491
+      marioSprites-removebg-preview_28: -982833291
+      marioSprites-removebg-preview_87: 778025937
+      marioSprites-removebg-preview_50: -1854786181
+      marioSprites-removebg-preview_93: 1387186169
+      marioSprites-removebg-preview_58: -451863962
+      marioSprites-removebg-preview_172: -1919329568
+      marioSprites-removebg-preview_105: -2057218616
+      marioSprites-removebg-preview_64: -773315054
+      marioSprites-removebg-preview_159: -1222108657
+      marioSprites-removebg-preview_130: -1436955985
+      marioSprites-removebg-preview_53: -2111441518
+      marioSprites-removebg-preview_107: 1406626327
+      marioSprites-removebg-preview_92: 183749996
+      marioSprites-removebg-preview_37: 726082658
+      marioSprites-removebg-preview_100: -1451712589
+      marioSprites-removebg-preview_135: 138628031
+      marioSprites-removebg-preview_204: -1774664898
+      marioSprites-removebg-preview_195: 781994438
+      marioSprites-removebg-preview_145: 1463862824
+      marioSprites-removebg-preview_208: -721099883
+      marioSprites-removebg-preview_60: -465866553
+      marioSprites-removebg-preview_117: -1916828949
+      marioSprites-removebg-preview_22: -1022009713
+      marioSprites-removebg-preview_46: 1733437394
+      marioSprites-removebg-preview_133: 1778704056
+      marioSprites-removebg-preview_139: -1235231853
+      marioSprites-removebg-preview_1: -115701486
+      marioSprites-removebg-preview_41: 1273367380
+      marioSprites-removebg-preview_131: -1322585582
+      marioSprites-removebg-preview_123: -294897286
+      marioSprites-removebg-preview_129: 1218390434
+      marioSprites-removebg-preview_79: -1311125868
+      marioSprites-removebg-preview_71: -931401411
+      marioSprites-removebg-preview_4: -15862243
+      marioSprites-removebg-preview_137: 1768894809
+      marioSprites-removebg-preview_152: -348157942
+      marioSprites-removebg-preview_10: 1833714868
+      marioSprites-removebg-preview_29: -1065496220
+      marioSprites-removebg-preview_75: 2126514548
+      marioSprites-removebg-preview_63: 118799736
+      marioSprites-removebg-preview_178: -1965830495
+      marioSprites-removebg-preview_112: -1403324436
+      marioSprites-removebg-preview_95: 2049591667
+      marioSprites-removebg-preview_211: -1675149625
+      marioSprites-removebg-preview_177: 1957065000
+      marioSprites-removebg-preview_144: -2051527581
+      marioSprites-removebg-preview_142: 943039351
+      marioSprites-removebg-preview_119: -786955371
+      marioSprites-removebg-preview_125: -2090315637
+      marioSprites-removebg-preview_24: -28671762
+      marioSprites-removebg-preview_153: -1738949231
+      marioSprites-removebg-preview_185: -1777395185
+      marioSprites-removebg-preview_154: -1776362767
+      marioSprites-removebg-preview_74: -1759703842
+      marioSprites-removebg-preview_108: 310130030
+      marioSprites-removebg-preview_180: -197695093
+      marioSprites-removebg-preview_126: 1538315223
+      marioSprites-removebg-preview_16: -1011861753
+      marioSprites-removebg-preview_33: 215531110
+      marioSprites-removebg-preview_168: 507197825
+      marioSprites-removebg-preview_114: 2122504133
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

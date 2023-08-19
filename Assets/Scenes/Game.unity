@@ -570,7 +570,7 @@ GameObject:
   - component: {fileID: 1926726483}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39c6612128f6640448be1eb0312b819a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  forceJump: 0
-  maxJumpCount: 0
+  speed: 10
+  forceJump: 10
+  maxJumpCount: 10
 --- !u!61 &1926726483
 BoxCollider2D:
   m_ObjectHideFlags: 0
